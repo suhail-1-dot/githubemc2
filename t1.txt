@@ -1,0 +1,22 @@
+[1mdiff --git a/intex.html b/intex.html[m
+[1mindex e69de29..32f95c0 100644[m
+[1m--- a/intex.html[m
+[1m+++ b/intex.html[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mhi[m
+\ No newline at end of file[m
+[1mdiff --git a/newfile.txt b/newfile.txt[m
+[1mdeleted file mode 100644[m
+[1mindex e69de29..0000000[m
+[1mdiff --git a/rus4rsrs b/rus4rsrs[m
+[1mdeleted file mode 100644[m
+[1mindex e69de29..0000000[m
+[1mdiff --git a/test1.txt b/test1.txt[m
+[1mindex 80f3b37..f49f596 100644[m
+[1m--- a/test1.txt[m
+[1m+++ b/test1.txt[m
+[36m@@ -1 +1,2 @@[m
+[31m-goog[m
+[32m+[m[32msomthi[m
+[32m+[m[32mgi[m
+\ No newline at end of file[m
